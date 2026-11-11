@@ -9,7 +9,7 @@
 
 ## What I Do
 
-I sit between strategy and design. I research the problem, shape the flow, design the interface, and then build it in HTML, CSS, and JavaScript so the idea can be tested as a real product instead of a static mockup.
+I sit between strategy and design. I research the problem, shape the flow, design the interface, and then build it in Framer or by vibe coding with Claude so the idea can be tested as a real product instead of a static mockup.
 
 Currently working at **WellDev** and founder of **Zynex Design**, where I work on dashboards, design systems, and the front-end implementation that brings them to life.
 
@@ -17,10 +17,9 @@ Currently working at **WellDev** and founder of **Zynex Design**, where I work o
 
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
+  <img src="https://img.shields.io/badge/Vibe%20Coding-7C3AED?style=for-the-badge&logoColor=white" alt="Vibe Coding" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 </p>
 
