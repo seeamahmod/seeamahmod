@@ -11,7 +11,7 @@
 
 I sit between strategy and design. I research the problem, shape the flow, design the interface, and then build it in HTML, CSS, and JavaScript so the idea can be tested as a real product instead of a static mockup.
 
-Currently designing at **Ovious Studio** and **Alopoth EdTech**, where I work on dashboards, design systems, and the front-end implementation that brings them to life.
+Currently working at **WellDev** and founder of **Zynex Design**, where I work on dashboards, design systems, and the front-end implementation that brings them to life.
 
 ## Toolbox
 
