@@ -18,6 +18,7 @@ Currently working at **WellDev** and founder of **Zynex Design**, where I work o
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
+  <img src="https://img.shields.io/badge/iOS%2027-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS 27" />
   <img src="https://img.shields.io/badge/Vibe%20Coding-7C3AED?style=for-the-badge&logoColor=white" alt="Vibe Coding" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
