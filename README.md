@@ -15,13 +15,6 @@ Currently working at **WellDev** and founder of **Zynex Design**, where I work o
 
 ## Toolbox
 
-```text
-Design        Figma · Design Systems · Prototyping · User Flows · Wireframing
-Front end     HTML · CSS · JavaScript · React
-UI libraries  shadcn/ui · Storybook
-Focus         Dashboards · SaaS products · EdTech · Mobile-first web apps
-```
-
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -30,20 +23,6 @@ Focus         Dashboards · SaaS products · EdTech · Mobile-first web apps
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 </p>
-
-## Selected Work
-
-- 🎓 **Alopoth EdTech Dashboard**: student progress views and a multi-step student import flow, designed so every chart gives teachers something to act on
-- 📅 **Booking SaaS Dashboard**: a ground-up redesign across overview, users, bookings, messages, and payments, with live search and readable data in place of raw IDs
-- 📣 **Civic Reporting App**: a mobile-first web app for reporting local problems, with separate user, admin, and super admin portals
-- 🖥️ **Interactive Terminal Portfolio**: a personal site you explore by typing commands
-
-## Currently
-
-- 🧩 Building and documenting design systems that stay in sync between Figma and code
-- 🔗 Exploring ways to bring coded components back into Figma
-- ⚙️ Deepening my full-stack skills so I can ship more of what I design
-- 📍 Based in Dhaka, Bangladesh
 
 ## Let's Talk
 
