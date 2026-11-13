@@ -7,7 +7,7 @@
   <a href="https://github.com/seeamahmod"><img src="https://img.shields.io/github/followers/seeamahmod?label=Follow&style=social" alt="GitHub followers" /></a>
 </p>
 
-## What I Do
+## Learn about me
 
 I sit between strategy and design. I research the problem, shape the flow, design the interface, and then build it in Framer or by vibe coding with Claude so the idea can be tested as a real product instead of a static mockup.
 
